@@ -3,15 +3,18 @@
 h1{
   font-family: black;
   color:black;
+  font-size=40;
 }
 
  h2{
   font-family: verdana;
   color:black;
+   font-size=50;
 }
 
 p{
  font-family: verdana;
+  font-size = 60;
 }
 
 body {
